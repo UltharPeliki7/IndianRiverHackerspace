@@ -3,22 +3,23 @@
 # Indian River Hackerspace
 
 ## What this place is
-A garage-scale research makerspace where you can learn to build real things and run real projects—without the chaos that ruins most shared shops.
+A garage-scale research makerspace where you can learn to build real things and run real projects—without the chaos that ruins most shared shops. Founded 2/19/2026.
 
 ## The tools
 **Machine tools (certification required; occupancy limits)**
-- Lathe
-- Mill
-- Surface grinder
+- 12x36 Central Machinery Lathe
+- Full size Vertical Mill Manford VSL-150
+- 6x12 Sanford Surface grinder
 - Bench grinder
 
 **Digital fabrication** (certification required)
-- CO₂ laser cutter
-- CNC router
-- 3D printing
+- 5'x4' CO₂ laser cutter
+- 24"x24" diode laser engraver
+- 6040 CNC router
+- FDM 3D printing 
 
 **Wood + general fabrication** (certification required)
-- Woodworking tooling
+- Woodworking tooling (Table saws, compound miter saws, circular saws, sawsall, router, 12" planer)
 - Workholding, hand tools, finishing basics
 
 **Science corner**
