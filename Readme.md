@@ -1,6 +1,6 @@
 <!-- docs/index.md -->
 
-# Makerspace / Hackerspace
+# Indian River Hackerspace
 
 ## What this place is
 A garage-scale research makerspace where you can learn to build real things and run real projects—without the chaos that ruins most shared shops.
