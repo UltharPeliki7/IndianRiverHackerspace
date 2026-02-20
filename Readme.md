@@ -3,7 +3,7 @@
 # Indian River Hackerspace
 
 ## Mission:
-We seek to support citizen science efforts, science literacy, manufacturing literacy, and creation of opportunities to make things and learn how to make things. We would like to be a hub of tools, information, knowledge and skill. We also want to operate as a research center. As an organization, we want to produce machines for sale to fund non-profit activities under fundraising. We do not allow for manufacturing firearms or weapons in our facilities.
+We  support citizen science, science literacy, manufacturing literacy, by providing hands-on access to tools, instruction, and shared expertise. We’re building a hub of capability that produces documented learning, prototypes, and research-style projects. As an organization, we want to produce machines for sale(like printmaking presses) to fund non-profit activities under fundraising. We do not allow for manufacturing firearms or weapons in our facilities.
 
 We are currently a garage-scale research Hackerspace where you can learn to build real things and run real projects. Founded 2/19/2026.
 
@@ -34,8 +34,7 @@ We are currently a garage-scale research Hackerspace where you can learn to buil
 - **Unattended use** only after: interview + knowledge verification + mandatory training video + **per-machine certification**.
 - **Research projects** get a project designation with a research question and are tracked in GitHub (issues + wiki).
 
-## Mission
-We support citizen science, science literacy, and manufacturing literacy by providing hands-on access to tools, instruction, and shared expertise. We’re building a hub of capability that produces documented learning, prototypes, and research-style projects.
+
 
 ## Scope (what we focus on)
 **Core**
