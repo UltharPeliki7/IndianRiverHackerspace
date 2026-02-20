@@ -92,8 +92,8 @@ You get certified **per tool class**. Typical path:
 - Unsafe behavior, ignoring PPE rules, bypassing certification, unauthorized guests, violating prohibitions, or leaving hazards for others.
 - This is enforced quickly to keep the shop viable.
 
-## 11) Quick links you should add next
-- Safety Policy
+## 11) Quick links
+- [Safety Policy](safety.md)
 - Training & Certifications
 - Tool Inventory
 - Incident / Near-miss Reporting
