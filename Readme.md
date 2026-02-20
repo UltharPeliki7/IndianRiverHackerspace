@@ -2,8 +2,10 @@
 
 # Indian River Hackerspace
 
-## What this place is
-A garage-scale research Hackerspace where you can learn to build real things and run real projects. Founded 2/19/2026.
+## Mission:
+We seek to support citizen science efforts, science literacy, manufacturing literacy, and creation of opportunities to make things and learn how to make things. We would like to be a hub of tools, information, knowledge and skill. We also want to operate as a research center. As an organization, we want to produce machines for sale to fund non-profit activities under fundraising. We do not allow for manufacturing firearms or weapons in our facilities.
+
+We are currently a garage-scale research Hackerspace where you can learn to build real things and run real projects. Founded 2/19/2026.
 
 ## The tools
 **Machine tools (certification required; occupancy limits)**
