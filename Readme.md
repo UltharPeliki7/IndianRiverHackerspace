@@ -18,7 +18,7 @@ We are currently a garage-scale research Hackerspace where you can learn to buil
 - 5'x4' CO₂ laser cutter
 - 24"x24" diode laser engraver
 - 6040 CNC router
-- FDM 3D printing 
+- FDM 3D printing (Centauri Carbon)
 
 **Wood + general fabrication** (certification required)
 - Woodworking tooling (Table saws, compound miter saws, circular saws, sawsall, router, 12" planer)
